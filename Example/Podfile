@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'swiftRequest_Example' do
+  pod 'swiftRequest', :path => '../'
+
+  target 'swiftRequest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

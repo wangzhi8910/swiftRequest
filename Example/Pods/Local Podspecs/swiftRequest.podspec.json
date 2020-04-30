@@ -1,0 +1,22 @@
+{
+  "name": "swiftRequest",
+  "version": "0.1.0",
+  "summary": "A short description of swiftRequest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangzhi8910/swiftRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangzhi8910": "zhi.wang@2339.com"
+  },
+  "source": {
+    "git": "https://github.com/wangzhi8910/swiftRequest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "swiftRequest/Classes/**/*"
+}

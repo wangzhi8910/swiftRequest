@@ -1,0 +1,16 @@
+PODS:
+  - swiftRequest (0.1.0)
+
+DEPENDENCIES:
+  - swiftRequest (from `../`)
+
+EXTERNAL SOURCES:
+  swiftRequest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  swiftRequest: b2df1298e9bb2e026973efc44fd037ce05963ec6
+
+PODFILE CHECKSUM: c11ba3c4c960881ba29d8bfdeb10b8f477d90525
+
+COCOAPODS: 1.9.0.beta.2
